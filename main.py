@@ -1,5 +1,5 @@
 nama = 'Surya Eka Kurnia'
-program = 'Gerak Lurus'
+program = 'Daya'
 
 print(f'program {program} oleh {nama}')
 
